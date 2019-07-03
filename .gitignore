@@ -1,3 +1,7 @@
+# Strapi
+.cache
+build/
+
 # Logs
 logs
 *.log
